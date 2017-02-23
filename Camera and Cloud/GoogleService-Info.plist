@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>934710531117-4jhaknm72lomkpq8p6j5tnr73a5fhh2t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.934710531117-4jhaknm72lomkpq8p6j5tnr73a5fhh2t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5b-Q91F7BXwUK7pS6weSJCFaAFi_oi7M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>934710531117</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>n-a.Camera-and-Cloud</string>
+	<key>PROJECT_ID</key>
+	<string>raels-camera-and-cloud</string>
+	<key>STORAGE_BUCKET</key>
+	<string>raels-camera-and-cloud.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:934710531117:ios:fb625aaf96caf4ff</string>
+	<key>DATABASE_URL</key>
+	<string>https://raels-camera-and-cloud.firebaseio.com</string>
+</dict>
+</plist>
